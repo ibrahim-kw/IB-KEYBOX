@@ -1,0 +1,7 @@
+{
+  "versionName": "2.0",
+  "versionCode": 200,
+  "downloadUrl": "https://github.com/ibrahim-kw/IB-KEYBOX/releases/download/v2.0/IB-KEYBOX-v2.0.zip",
+  "releaseNotes": "- Fixed Play Integrity issue\n- Improved module stability",
+  "stable": true
+}
