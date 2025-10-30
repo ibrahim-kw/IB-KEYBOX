@@ -1,7 +1,6 @@
 {
-  "versionName": "2.0",
-  "versionCode": 200,
-  "downloadUrl": "https://github.com/ibrahim-kw/IB-KEYBOX/releases/download/v2.0/IB-KEYBOX-v2.0.zip",
-  "releaseNotes": "- Fixed Play Integrity issue\n- Improved module stability",
-  "stable": true
+  "version": "2.1",
+  "versionCode": 210,
+  "zipUrl": "https://github.com/ibrahim-kw/IB-KEYBOX/releases/download/v2.1/IB-KEYBOX-v2.1.zip",
+  "changelog": "• Updated Play Integrity bypass\n• Improved module performance\n• Bug fixes"
 }
